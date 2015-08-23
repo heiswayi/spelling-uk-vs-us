@@ -8,7 +8,7 @@ Comprehensive* list of American and British spelling differences
 
 1. Check if there is no existing spelling/keyword yet.
 2. If YES, fork this repo.
-3. Edit `data.txt` file, and add your yours.
+3. Edit `data.txt` file, and add yours.
 
     PLEASE FOLLOW THE CORRECT FORMAT AND ALPHABET ORDERS.
 
