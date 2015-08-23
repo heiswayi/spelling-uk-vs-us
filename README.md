@@ -14,8 +14,8 @@ Comprehensive* list of American and British spelling differences
 
     ```
     [
-      "US_SPELLING",
-      "UK_SPELLING"
+      "UK_SPELLING",
+      "US_SPELLING"
     ],
     ```
 
