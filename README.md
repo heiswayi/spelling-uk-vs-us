@@ -1,8 +1,8 @@
-# us-vs-uk
+# Spelling: UK vs US
 
-Comprehensive* list of American and British spelling differences
+A comprehensive* list of British and American spelling differences.
 
-**Live Link:** http://heiswayi.github.io/us-vs-uk
+**Live Link:** http://heiswayi.github.io/spelling-uk-vs-us
 
 ### Contribution
 
