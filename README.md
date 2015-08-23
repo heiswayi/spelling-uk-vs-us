@@ -10,14 +10,14 @@ Comprehensive* list of American and British spelling differences
 2. If YES, fork this repo.
 3. Edit `data.txt` file, and add your yours.
 
-PLEASE FOLLOW THE CORRECT FORMAT AND ALPHABET ORDERS.
+    PLEASE FOLLOW THE CORRECT FORMAT AND ALPHABET ORDERS.
 
-```
+    ```
     [
       "US_SPELLING",
       "UK_SPELLING"
     ],
-```
+    ```
 
 4. Create a pull request.
 
