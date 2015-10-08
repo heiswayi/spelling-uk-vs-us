@@ -2,7 +2,7 @@
 
 A comprehensive* list of British and American spelling differences.
 
-**Live Link:** http://heiswayi.github.io/spelling-uk-vs-us
+**URL:** http://heiswayi.github.io/spelling-uk-vs-us
 
 ## Contribution
 
